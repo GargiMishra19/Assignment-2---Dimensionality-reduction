@@ -1,1 +1,1 @@
-# Assignment-2---Dimensionality-reduction
+# Assignment-2-Dimensionality-reduction
